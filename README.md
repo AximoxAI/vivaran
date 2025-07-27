@@ -19,7 +19,7 @@ By leveraging an Agentic AI approach orchestrated by **Goose** and employing **D
 
   * **Multilingual Voice Analysis:** Supports 5-7 major Indian languages (Hindi, English, Bengali, Telugu, Marathi, Tamil, Gujarati) with capabilities for dialectal variation and code-switching.
   * **Agentic AI Architecture:** Built with the **Goose framework** to orchestrate specialized AI agents for audio processing, linguistic understanding, notes generation, patient profile management, feedback analysis, and metric scoring.
-  * **Prompt Optimization:** Incorporates **DSPy-like automated prompt optimization** techniques (similar to DSPy SIMBA) directly within Goose agents to ensure highly accurate, empathetic, and contextually appropriate AI outputs for notes and feedback.
+  * **Prompt Optimization:** Incorporates **Automated prompt optimization** techniques (similar to SIMBA) directly within Goose agents to ensure highly accurate, empathetic, and contextually appropriate AI outputs for notes and feedback.
   * **360-Degree Feedback Engine:** Provides detailed, actionable feedback to both psychiatrists and patients on communication quality, empathy, active listening, and cultural sensitivity based on 17 specific metrics.
   * **Automated Clinical Documentation:** Generates structured, summarized consultation notes, reducing administrative burden for clinicians.
   * **Comprehensive Patient Profiling:** Manages longitudinal patient data, addressing the critical challenge of fragmented health records and enhancing continuity of care as patients move.
