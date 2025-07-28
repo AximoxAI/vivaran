@@ -45,6 +45,6 @@ This project is licensed under the [Specify your License, e.g., MIT License, Apa
 
 ## Contact
 
-For any inquiries or collaborations, please reach out to [Your Name/Team Email] or open an issue on this GitHub repository.
+For any inquiries or collaborations, please reach out to [mohit@aximox.com] or open an issue on this GitHub repository.
 
 -----
