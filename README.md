@@ -39,7 +39,7 @@ By leveraging an Agentic AI approach orchestrated by **Goose** and employing **D
   * **Digital Platform:** Custom mobile application (Android/iOS) and/or web interface for user interaction and data management.
   * **Data Storage:** Secure, encrypted databases for sensitive patient and consultation data.
 
-This project is licensed under the [Specify your License, e.g., MIT License, Apache 2.0 License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [Apache 2.0 License] - see the [LICENSE.md](LICENSE.md) file for details.
 
 -----
 
